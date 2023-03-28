@@ -6,7 +6,7 @@ namespace Havedesign_Web_API
 {
     public static class DBHandler
     {
-        public static readonly string ConnectionString = "Host=havedesign.c3esbzypgftr.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Kathundhest5000;Database=Havedesign_DB";
+        public static readonly string ConnectionString = "someString";
 
         public static List<Customer> RetrieveAllCustomers()
         {
